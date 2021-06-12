@@ -1,0 +1,16 @@
+# 3dClustSim -acf 0.448187 1.67901 30.6835 -pthr 0.001 .002 .003 .005 .01 .02 .03 .05 -athr 0.05 -prefix cluster
+# 1-sided thresholding
+# Grid: 64x64x32 3.50x3.50x3.50 mm^3 (131072 voxels)
+#
+# CLUSTER SIZE THRESHOLD(pthr,alpha) in Voxels
+# -NN 2  | alpha = Prob(Cluster >= given size)
+#  pthr  | .05000
+# ------ | ------
+ 0.050000  5100.0
+ 0.030000  2299.0
+ 0.020000  1317.3
+ 0.010000   559.6
+ 0.005000   248.5
+ 0.003000   137.4
+ 0.002000    86.4
+ 0.001000    40.7
